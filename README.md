@@ -1,6 +1,6 @@
 # 📊 Análise de Evasão de Clientes (Churn)
 
-Este projeto faz parte do desafio do programa **AluraOne** e tem como objetivo explorar e analisar dados de uma empresa de telecomunicações para entender melhor o comportamento dos clientes que cancelam o serviço (churn). Através da análise exploratória, buscamos identificar padrões que ajudam a prever a evasão e sugerir possíveis estratégias para reduzi-la.
+Este projeto faz parte do desafio do programa **AluraOne** e tem como objetivo explorar e analisar dados de uma empresa de telecomunicações para entender melhor o comportamento dos clientes que cancelam o serviço (churn). Através da análise exploratória, busquei identificar padrões que ajudam a prever a evasão e sugerir possíveis estratégias para reduzi-la.
 
 ---
 
