@@ -81,7 +81,7 @@ clique [aqui](https://www.linkedin.com/in/matheusantos-ladeia/)
    ```bash
    pip install -r requirements.txt
    
-3. Abra o notebook AluraStoreBr - Respondido.ipynb em seu ambiente Jupyter:
+3. Abra o notebook TelecomX_BR.ipynb em seu ambiente Jupyter:
    ```bash
    jupyter notebook
 
