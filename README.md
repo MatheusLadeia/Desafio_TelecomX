@@ -61,7 +61,7 @@ Este projeto foi importante para colocar em prática conceitos de análise de da
 Você pode abrir o notebook diretamente no Google Colab:
 
 1. Faça uma cópia do notebook para sua conta do Google Drive.
-2. Execute célula por célula para ver os gráficos e resultados.
+2. Execute célula as para ver os gráficos e resultados.
 
 ---
 
