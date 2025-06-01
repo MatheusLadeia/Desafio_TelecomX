@@ -68,7 +68,7 @@ Você pode abrir o notebook diretamente no Google Colab:
 ## 📬 Contato
 
 Caso tenha interesse em discutir melhorias, ideias ou colaborar, sinta-se à vontade para me chamar!
-clique [aqui](https://www.linkedin.com/in/matheusantos-ladeia/)SEU_LINK_AQUI).
+clique [aqui](https://www.linkedin.com/in/matheusantos-ladeia/)
 ---
 
 ## 🚀 Como executar
