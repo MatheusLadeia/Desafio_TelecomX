@@ -15,6 +15,7 @@ O foco principal do projeto é responder à seguinte pergunta:
 ## 🛠️ Tecnologias Utilizadas
 
 - Python
+- Numpy
 - Pandas
 - Matplotlib
 - Seaborn
