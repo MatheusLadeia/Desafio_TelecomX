@@ -87,4 +87,4 @@ clique [aqui](https://www.linkedin.com/in/matheusantos-ladeia/)
 
 **No Google Colab:**
 
-- Acesse Google Colab, clicando [aqui](https://colab.research.google.com/drive/SEU_LINK_AQUI).
+- Acesse Google Colab, clicando [aqui](https://colab.research.google.com)
