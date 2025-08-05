@@ -75,7 +75,7 @@ clique [aqui](https://www.linkedin.com/in/matheusantos-ladeia/)
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/MatheusLadeia/Challenge_amigo_secreto_Data_Science.git
+   git clone https://github.com/MatheusLadeia/Challenge_amigo_secreto_Data_Science.git](https://github.com/MatheusLadeia/Desafio_TelecomX
 
 2. Instale as dependências necessárias:
    ```bash
